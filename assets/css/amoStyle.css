@@ -816,5 +816,5 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bu
 }
 .text_container.h span {
   font-weight: 400;
-  padding: 8px;
+  padding: 8px 0;
 }
